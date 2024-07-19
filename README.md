@@ -1,5 +1,5 @@
 # Cash Calculator
-[Cash.Calculator](file:///C:/Users/Anuradha%20Kashaudhan/Desktop/Cash%20calculator/cash.html)
+[Cash.Calculator]()
 
 It works on basis on providing input in numeric form.It is use to calculate amount of money we have by just providing input(how many different notes we have).
 # HTML
